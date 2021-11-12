@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kay017
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @kay017!
+
+- 👀 I’m interested in javascript/node.js, ethereum, Nuxt.js and Vue.js
+- 🌱 I’m currently learning how to make a dapp and smart contracts in the ethereum environment
+- 📫 You can reach me on my email address (in my profile)
 
 <!---
 kay017/kay017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
